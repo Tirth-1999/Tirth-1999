@@ -15,7 +15,7 @@
 
 - 📝 Actual Code Review [Github Glance](https://github.com/Tirth-1999?tab=repositories)
 
-- 💬 Ask me about <br> **Dictionary = { "Language" : [ "Python", "Java", "C", "C++"], "Microsoft" : [ "Microsoft Excel","Microsoft Word", "Microsoft PowerPoint"], "Libraries" :[ "OpenCV", "Numpy", "Sklearn", "Pandas", "Matplotlib", "Seaborn"] , "Database" : [ "MySQL", "PostgreSQL" ]}**
+- 💬 Ask me about <br> **Technology Stack = { <br> "Language" : [ "Python", "Java", "C", "C++"], <br> "Microsoft" : [ "Microsoft Excel","Microsoft Word", "Microsoft PowerPoint"], <br> "Libraries" :[ "OpenCV", "Numpy", "Sklearn", "Pandas", "Matplotlib", "Seaborn"] , <br> "Database" : [ "MySQL", "PostgreSQL" ]}**
 
 - 📫 How to reach me **tirthdhara108@gmail.com**
 
