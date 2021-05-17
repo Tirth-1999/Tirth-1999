@@ -15,7 +15,7 @@
 
 - 📝 Actual Code Review [Github Glance](https://github.com/Tirth-1999?tab=repositories)
 
-- 💬 Ask me about <br> **Technology Stack = { <br> <t> "Language" : [ "Python", "Java", "C", "C++"], <br> <t>"Microsoft" : [ "Microsoft Excel","Microsoft Word", "Microsoft PowerPoint"], <br> <t>"Libraries" :[ "OpenCV", "Numpy", "Sklearn", "Pandas", "Matplotlib", "Seaborn"] , <br> <t>"Database" : [ "MySQL", "PostgreSQL" ] <br> }**
+- 💬 Ask me about <br> **Technology Stack = { <br> &nbsp &nbsp &nbsp "Language" : [ "Python", "Java", "C", "C++"], <br> &nbsp &nbsp &nbsp"Microsoft" : [ "Microsoft Excel","Microsoft Word", "Microsoft PowerPoint"], <br> &nbsp &nbsp &nbsp"Libraries" :[ "OpenCV", "Numpy", "Sklearn", "Pandas", "Matplotlib", "Seaborn"] , <br> &nbsp &nbsp &nbsp"Database" : [ "MySQL", "PostgreSQL" ] <br> }**
 
 - 📫 How to reach me **tirthdhara108@gmail.com**
 
