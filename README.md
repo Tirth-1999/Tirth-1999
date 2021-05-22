@@ -36,7 +36,7 @@
 <a href="https://kaggle.com/tcs1999" target="blank"><img align="center" src="icons\iconfinder_189_Kaggle_4519136.svg" alt="tcs1999" height="30" width="40" /></a>
 <a href="https://instagram.com/tcs_1110" target="blank"><img align="center" src="icons\iconfinder_Instagram_1298747.svg" alt="tcs_1110" height="30" width="40" /></a>
 <a href="https://medium.com/@tirthdhara108" target="blank"><img align="center" src="icons\iconfinder_Medium_rounded_cr_7088990.svg" alt="@tirthdhara108" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tirth shah" target="blank"><img align="center" src="icons\iconfinder_1_Youtube_colored_svg_5296521.svg" alt="tirth shah" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/TIRTHSHAHsodast" target="blank"><img align="center" src="icons\iconfinder_1_Youtube_colored_svg_5296521.svg" alt="tirth shah" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tirthdhara108" target="blank"><img align="center" src="icons\iconfinder_160_Hackerrank_4519110.svg" alt="tirthdhara108" height="30" width="40" /></a>
 </p>
 
