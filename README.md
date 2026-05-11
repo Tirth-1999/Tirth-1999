@@ -1,46 +1,100 @@
-<div align = "center">
-  <img src= "icons\back.jpg" >
-</div>
-<h1 align="center">Hi 👋, I'm Tirth Chirayu Shah</h1>
-<h3 align="center">I am a <span style="color:orange;">tenacious 🚀, balanced ⚖️, quick 💨 and innovative 🕵️ learner who believes in hard-work.<br> Bringing forth a motivated attitude and a variety of powerful skills 🤹🏻 . Adept in various Data Science technologies. I Aspire to work further in the field of Data Science 📈📊📉 & Python 🐍.</h3>
+<h1 align="center">Howdy, I'm Tirth Chirayu Shah 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tirth-1999&label=Profile%20views&color=0e75b6&style=flat" alt="tirth-1999" /> </p>
-
-- 🔭 I’m currently working on [Training & Placement Project](https://github.com/Tirth-1999/LY-project)
-
-- 🌱 I’m currently learning **Data Science with Python 🐍**
-
-- 👀 Have a look at my [Portfolio](https://bit.ly/3bmzc7D)
-
-- 👓 Have a look at my [Data 📊 to Dollar 💲 Story](https://www.youtube.com/playlist?list=PL7F3DSvqWsylA6fBnF-Ntt-UaZ8mOjPAs)
-
-- 👨‍💻 All of my projects are available at [Portfolio-Projects](https://tirth-1999.github.io/Portfolio_tcs1999.github.io/#Project)
-
-- 📝 Actual Code Review [Github Glance](https://github.com/Tirth-1999?tab=repositories)
-
-- 💬 Ask me about <br><br> **Technology Stack = { <br>            "Language" : [ "Python", "Java", "C", "C++"], </p>             "Microsoft" : [ "Microsoft Excel", "Microsoft Word", "Microsoft PowerPoint"], </p>            "Libraries" : [ "OpenCV", "Numpy", "Sklearn", "Pandas", "Matplotlib", "Seaborn"] , </p>             "Database" : [ "MySQL", "PostgreSQL" ] <br>          }**
-
-
-- 📫 How to reach me **tirthdhara108@gmail.com**
-
-- 📄 Know about my experiences [Clickable Resume 👆](https://tirth-1999.github.io/Portfolio_tcs1999.github.io/assets/doc/resume.pdf)
-
-- ⚡ Fun fact **I am an Athlete 🏃‍♂️, Dancer 🕺, Foodie 🥘 and I love Football ⚽.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/tirth1999" target="blank"><img align="center" src="icons\iconfinder_84_Dev_logo_logos_4373243.svg" alt="tirth1999" height="30" width="40" /></a>
-<a href="https://twitter.com/tirthsh29132292" target="blank"><img align="center" src="icons\twitter.svg" alt="tirthsh29132292" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tirth-chirayu-shah" target="blank"><img align="center" src="icons\iconfinder_square-linkedin_317725.svg" alt="tirth-chirayu-shah" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9769923" target="blank"><img align="center" src="icons\iconfinder_logo_stackoverflow_Stack_overflow_6541614.svg" alt="9769923" height="30" width="40" /></a>
-<a href="https://kaggle.com/tcs1999" target="blank"><img align="center" src="icons\iconfinder_189_Kaggle_4519136.svg" alt="tcs1999" height="30" width="40" /></a>
-<a href="https://instagram.com/tcs_1110" target="blank"><img align="center" src="icons\iconfinder_Instagram_1298747.svg" alt="tcs_1110" height="30" width="40" /></a>
-<a href="https://medium.com/@tirthdhara108" target="blank"><img align="center" src="icons\iconfinder_Medium_rounded_cr_7088990.svg" alt="@tirthdhara108" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/TIRTHSHAHsodast" target="blank"><img align="center" src="icons\iconfinder_1_Youtube_colored_svg_5296521.svg" alt="tirth shah" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tirthdhara108" target="blank"><img align="center" src="icons\iconfinder_160_Hackerrank_4519110.svg" alt="tirthdhara108" height="30" width="40" /></a>
+<p align="center">
+  <strong>Data Engineer • AI Developer • Full Stack Builder • Aspiring Product Mind</strong><br>
+  Turning messy data and half-formed ideas into systems people actually use.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.tirthcshah.com"><img src="https://img.shields.io/badge/Portfolio-tirthcshah.com-0e75b6?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/tirth-chirayu-shah"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tirthdhara108@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=tirth-1999&label=Profile+views&color=0e75b6&style=flat-square" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tirth-1999&show_icons=true&locale=en&layout=compact" alt="tirth-1999" /></p>
+---
+
+### 🎓 About Me
+
+I'm a graduate student at **Texas A&M University**, finishing my **M.S. in Management Information Systems** in May 2026. Originally from India, now building things in Texas.
+
+I started as a Data Engineer at **TCS** working with Equifax on GCP migrations, kept going through **Texas A&M Utilities** building real-time analytics that replaced 15+ legacy Excel reports, co-founded **BlackTieCars** (a luxury transportation platform I shipped solo from architecture to paying customers), and I'm currently a **GEM Program Intern at HCLTech** on the Verizon account, working on agentic AI strategy.
+
+What I care about: systems that turn complex data into decisions people can act on, without the buzzwords.
+
+---
+
+### 🛠️ What I'm Working With
+
+**Languages**  
+🐍 Python • ☕ Java • 📜 JavaScript / TypeScript • 🟦 SQL • ⚙️ C / C++
+
+**Data & Cloud**  
+☁️ GCP (BigQuery, Cloud Storage) • 🟠 Azure • 🐘 PostgreSQL • 🐬 MySQL • 🏢 SQL Server • 📊 Power BI • 🧱 Star Schema warehousing
+
+**AI / ML**  
+🤖 Gemini 2.5 • 🧠 LangChain • 🔍 ChromaDB (vector search) • 📚 RAG pipelines • 🧪 scikit-learn • 🎯 TensorFlow • 👁️ OpenCV
+
+**Web & Product**  
+⚛️ Next.js • 🟢 Node.js • 🐍 Django • 💳 Stripe • 🔐 Supabase • 🗺️ Google Maps API
+
+**Tools**  
+🐙 Git • 🐳 Docker • 🐧 Linux • 📈 Selenium • 📓 Jupyter
+
+---
+
+### 🚀 What I've Shipped
+
+A few things I'm proud of (full case studies on my [portfolio](https://www.tirthcshah.com)):
+
+🛻 **BlackTieCars** — Co-founded and shipped a full-stack luxury transportation platform solo. Next.js, Stripe, Supabase, Google Maps. Generated $10K+ revenue and 3x business growth in 3 months through autonomous booking, payments, and AI-powered scheduling.
+
+⚡ **TAMU Utilities Automation Suite** — Eliminated 95% of manual reporting work (10+ hrs/week) by architecting 13 interconnected automation projects. The CHP Operations pipeline alone took daily 2.5-3 hour workflows down to 5 minutes, processing 500K+ sensor records a day at 99.5% reliability.
+
+🔍 **Equifax GCP Data Fabric** — Migrated 7 fragmented data aggregators into a unified GCP architecture with smart address standardization and match-key logic. Hit ratio up 45%, lookup time down from 15+ minutes to under 1 minute.
+
+🧠 **MAYS AI Chat Assistant** — Built a production chat assistant with Gemini 2.5 Flash and ChromaDB. Sub-3 second response on 80% of queries, 90%+ accuracy on business intelligence questions. Natural language to SQL so non-technical folks can pull their own analytics.
+
+🏆 **TAMU Datathon 2025 Winner** — First place. Built a regulatory document classifier under time pressure with a tight team.
+
+---
+
+### 📄 Resume (Pick Your Flavor)
+
+Same roles, same dates. Different emphasis depending on what you're hiring for.
+
+| Focus | Best For |
+|-------|----------|
+| 🧱 [Data Engineering](https://www.tirthcshah.com/assets/documents/Tirth_Shah_Data_Engineer_Resume.pdf) | ETL, warehousing, orchestration, automation |
+| 🤖 [AI / ML Engineering](https://www.tirthcshah.com/assets/documents/Tirth_Shah_AI_ML_Data_Engineer_Resume.pdf) | ML pipelines, model delivery, data engineering |
+| 🧩 [AI Systems Engineering](https://www.tirthcshah.com/assets/documents/Tirth_Shah_AI_Systems_Engineer_Resume.pdf) | LLM systems, RAG, retrieval workflows |
+| 📦 [AI Product Management](https://www.tirthcshah.com/assets/documents/Tirth_Shah_AI_Product_Manager_Resume.pdf) | Product strategy, prioritization, stakeholder execution |
+| 📊 [Business Analytics](https://www.tirthcshah.com/assets/documents/Tirth_Shah_Business_Data_Analyst_Resume.pdf) | Analytics, KPI reporting, decision support |
+| 🧑‍💻 [Full Stack Engineering](https://www.tirthcshah.com/assets/documents/Tirth_Shah_Full_Stack_Software_Engineer_Resume.pdf) | APIs, full-stack delivery, system implementation |
+
+---
+
+### 🤝 Let's Talk
+
+📫 **Email:** tirthdhara108@gmail.com  
+🌐 **Portfolio:** [tirthcshah.com](https://www.tirthcshah.com)  
+💼 **LinkedIn:** [tirth-chirayu-shah](https://linkedin.com/in/tirth-chirayu-shah)  
+✍️ **Medium:** [@tirthshah1999](https://medium.com/@tirthshah1999)  
+📊 **Kaggle:** [tcs1999](https://kaggle.com/tcs1999)  
+💻 **HackerRank:** [tirthdhara108](https://www.hackerrank.com/tirthdhara108)
+
+---
+
+### ⚡ Off the Clock
+
+🏃‍♂️ Runner • 🕺 Dancer • ⚽ Football fan • 📸 Photography • ✈️ Travel • 📖 Books • 🥘 Foodie
+
+President of Buddy Connect at Mays. Senior Director at IGSA (Best Senior Director, 2025-26). I like building communities almost as much as I like building systems.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tirth-1999&show_icons=true&locale=en&layout=compact&theme=default" />
+</p>
+
+<p align="center"><em>Gig 'Em! 👍</em></p>
