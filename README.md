@@ -1,124 +1,66 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Tirth+Chirayu+Shah;Data+Engineer+%C2%B7+AI+Developer+%C2%B7+Builder;Turning+messy+data+into+systems+that+ship" alt="Tirth Chirayu Shah" />
-</p>
+<h1 align="center">Hi 👋, I'm Tirth Chirayu Shah</h1>
+<h3 align="center">Data Engineer, AI Developer, and Full Stack Builder. Turning messy data into systems that ship.</h3>
 
 <p align="center">
-  <a href="https://www.tirthcshah.com">Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/tirth-chirayu-shah">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.tirthcshah.com/assets/documents/Tirth_Shah_Data_Engineer_Resume.pdf">Résumé</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:tirthdhara108@gmail.com">Email</a>
+  <img src="https://komarev.com/ghpvc/?username=tirth-1999&label=Profile%20views&color=0e75b6&style=flat" alt="tirth-1999" />
 </p>
 
-<br>
+- 🎓 I'm currently finishing my **M.S. in Management Information Systems** at **Texas A&M University**, graduating May 2026
 
-<h2 align="center">About</h2>
+- 🔭 I'm currently working as a **GEM Program Intern at HCLTech** on the Verizon account, supporting agentic AI strategy
 
-<p align="center">
-  M.S. Management Information Systems, Texas A&M University &nbsp;·&nbsp; May 2026<br>
-  Based in College Station, Texas
+- 🚀 I recently co-founded and shipped [**BlackTieCars**](https://www.tirthcshah.com), a full stack luxury transportation platform
+
+- 🌱 I'm currently learning **LLM evals, retrieval optimization, and MLOps**
+
+- 👀 Have a look at my [**Portfolio**](https://www.tirthcshah.com)
+
+- 📄 Know more about my experience [**Résumé**](https://www.tirthcshah.com/assets/documents/Tirth_Shah_Data_Engineer_Resume.pdf)
+
+- 💬 Ask me about
+<br><br>
+**TechStack = { <br>
+&nbsp;&nbsp;&nbsp;&nbsp;"Languages"&nbsp;: [ "Python", "TypeScript", "JavaScript", "SQL", "Java", "C++" ], <br>
+&nbsp;&nbsp;&nbsp;&nbsp;"Cloud"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: [ "GCP", "Azure", "BigQuery", "Cloud Run" ], <br>
+&nbsp;&nbsp;&nbsp;&nbsp;"AI"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: [ "Gemini", "LangChain", "ChromaDB", "RAG", "scikit-learn", "TensorFlow" ], <br>
+&nbsp;&nbsp;&nbsp;&nbsp;"Web"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: [ "Next.js", "React", "Node.js", "Django", "Supabase", "Stripe" ], <br>
+&nbsp;&nbsp;&nbsp;&nbsp;"Data"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: [ "PostgreSQL", "MySQL", "SQL Server", "Power BI" ] <br>
+}**
+
+- 📫 How to reach me **tirthdhara108@gmail.com**
+
+- ⚡ Fun fact **First place at TAMU Datathon 2025. Co-founded a startup that ships real revenue. Athlete and dancer when not in a terminal.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tirth-chirayu-shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tirth-chirayu-shah" height="30" width="40" /></a>
+<a href="https://medium.com/@tirthshah1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tirthshah1999" height="30" width="40" /></a>
+<a href="https://kaggle.com/tcs1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tcs1999" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tirthdhara108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tirthdhara108" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9769923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9769923" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  Three years as a Data Engineer at Tata Consultancy Services on the Equifax GCP migration.<br>
-  Built the real-time analytics stack at Texas A&M Utilities that retired 15+ legacy reports.<br>
-  Co-founded BlackTieCars and shipped the full platform solo to paying customers.<br>
-  Currently a GEM Program Intern at HCLTech, supporting Verizon on agentic AI strategy.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
+<a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-<p align="center">
-  <i>Open to full-time roles starting May 2026 across data engineering, AI, and product engineering.</i>
-</p>
-
-<br>
-
-<h2 align="center">Selected Work</h2>
-
-<p align="center">
-  Full case studies at <a href="https://www.tirthcshah.com"><b>tirthcshah.com</b></a>
-</p>
-
-<br>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top" align="left">
-
-**BlackTieCars**
-
-Co-founded a luxury transportation platform. Shipped the full stack solo with Next.js, Stripe, Supabase, and Google Maps.
-
-`$10K+ revenue` `3× growth in 3 months`
-
-</td>
-<td width="50%" valign="top" align="left">
-
-**TAMU Utilities Automation Suite**
-
-13 interconnected automation projects across 3 data sources. CHP Operations pipeline reduced from 2.5 hours to 5 minutes.
-
-`95% manual work eliminated` `99.5% reliability`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="left">
-
-**Equifax GCP Data Fabric**
-
-Migrated 7 fragmented aggregators into a unified GCP architecture with intelligent match-key logic.
-
-`Hit ratio +45%` `Lookup 15 min to under 1 min`
-
-</td>
-<td width="50%" valign="top" align="left">
-
-**MAYS AI Chat Assistant**
-
-Production chat assistant with Gemini 2.5 Flash and ChromaDB. Natural language to SQL for non-technical stakeholders.
-
-`<3s response` `90%+ accuracy`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<h2 align="center">Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,azure,postgres,mysql,mongodb&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,langchain&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,django,supabase&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode&theme=dark" />
-</p>
-
-<br>
-
-<h2 align="center">GitHub at a Glance</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tirth-1999&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tirth-1999&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&langs_count=8" />
-</p>
-
-<br>
-
-<h2 align="center">Recognition</h2>
-
-<p align="center">
-  First place, TAMU Datathon 2025. President of Buddy Connect at Mays Business School,<br>
-  leading peer mentorship for incoming MS-MIS students. Senior Director at IGSA, Best Senior Director 2025-26.
-</p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Tirth-1999&show_icons=true&locale=en&layout=compact" alt="Tirth-1999" /></p>
