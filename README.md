@@ -1,100 +1,184 @@
-<h1 align="center">Howdy, I'm Tirth Chirayu Shah 👋</h1>
-
 <p align="center">
-  <strong>Data Engineer • AI Developer • Full Stack Builder • Aspiring Product Mind</strong><br>
-  Turning messy data and half-formed ideas into systems people actually use.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Howdy%2C+I'm+Tirth+Chirayu+Shah;Data+Engineer+%C2%B7+AI+Developer+%C2%B7+Builder;Turning+messy+data+into+systems+that+ship" alt="Tirth Chirayu Shah" />
 </p>
 
 <p align="center">
-  <a href="https://www.tirthcshah.com"><img src="https://img.shields.io/badge/Portfolio-tirthcshah.com-0e75b6?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/tirth-chirayu-shah"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tirthdhara108@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=tirth-1999&label=Profile+views&color=0e75b6&style=flat-square" />
+  <a href="https://www.tirthcshah.com">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/tirth-chirayu-shah">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:tirthdhara108@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://medium.com/@tirthshah1999">Medium</a>
 </p>
 
----
+<br>
 
-### 🎓 About Me
+<h2 align="center">About</h2>
 
-I'm a graduate student at **Texas A&M University**, finishing my **M.S. in Management Information Systems** in May 2026. Originally from India, now building things in Texas.
+<p align="center">
+  M.S. Management Information Systems @ Texas A&M University &nbsp;·&nbsp; Class of May 2026
+  <br>
+  📍 College Station, Texas
+</p>
 
-I started as a Data Engineer at **TCS** working with Equifax on GCP migrations, kept going through **Texas A&M Utilities** building real-time analytics that replaced 15+ legacy Excel reports, co-founded **BlackTieCars** (a luxury transportation platform I shipped solo from architecture to paying customers), and I'm currently a **GEM Program Intern at HCLTech** on the Verizon account, working on agentic AI strategy.
+<p align="center">
+  Three years as a Data Engineer at <b>Tata Consultancy Services</b> on the Equifax GCP migration.<br>
+  Built the real-time analytics stack at <b>Texas A&M Utilities</b> that retired 15+ legacy Excel reports.<br>
+  Co-founded <b>BlackTieCars</b> and shipped the platform solo from architecture to paying customers.<br>
+  Currently a <b>GEM Program Intern at HCLTech</b>, supporting the Verizon account on agentic AI strategy.
+</p>
 
-What I care about: systems that turn complex data into decisions people can act on, without the buzzwords.
+<p align="center">
+  <i>Open to full-time roles starting May 2026 in Data Engineering, AI, or adjacent product work.</i>
+</p>
 
----
+<br>
 
-### 🛠️ What I'm Working With
+<h2 align="center">Currently</h2>
 
-**Languages**  
-🐍 Python • ☕ Java • 📜 JavaScript / TypeScript • 🟦 SQL • ⚙️ C / C++
+<p align="center">
 
-**Data & Cloud**  
-☁️ GCP (BigQuery, Cloud Storage) • 🟠 Azure • 🐘 PostgreSQL • 🐬 MySQL • 🏢 SQL Server • 📊 Power BI • 🧱 Star Schema warehousing
+```text
+  Building     →  Agentic AI strategy for Verizon @ HCLTech
+  Shipping     →  MAYS Dashboard for admissions analytics
+  Learning     →  LLM evals, retrieval optimization, MLOps
+  Reading      →  Designing Data-Intensive Applications
+  Fueled by    →  Filter coffee and the Aggie spirit
+```
 
-**AI / ML**  
-🤖 Gemini 2.5 • 🧠 LangChain • 🔍 ChromaDB (vector search) • 📚 RAG pipelines • 🧪 scikit-learn • 🎯 TensorFlow • 👁️ OpenCV
+</p>
 
-**Web & Product**  
-⚛️ Next.js • 🟢 Node.js • 🐍 Django • 💳 Stripe • 🔐 Supabase • 🗺️ Google Maps API
+<br>
 
-**Tools**  
-🐙 Git • 🐳 Docker • 🐧 Linux • 📈 Selenium • 📓 Jupyter
+<h2 align="center">Selected Work</h2>
 
----
+<p align="center">
+  Full case studies at <a href="https://www.tirthcshah.com"><b>tirthcshah.com</b></a>
+</p>
 
-### 🚀 What I've Shipped
+<br>
 
-A few things I'm proud of (full case studies on my [portfolio](https://www.tirthcshah.com)):
+<table align="center">
+<tr>
+<td width="50%" valign="top" align="left">
 
-🛻 **BlackTieCars** — Co-founded and shipped a full-stack luxury transportation platform solo. Next.js, Stripe, Supabase, Google Maps. Generated $10K+ revenue and 3x business growth in 3 months through autonomous booking, payments, and AI-powered scheduling.
+**BlackTieCars**
 
-⚡ **TAMU Utilities Automation Suite** — Eliminated 95% of manual reporting work (10+ hrs/week) by architecting 13 interconnected automation projects. The CHP Operations pipeline alone took daily 2.5-3 hour workflows down to 5 minutes, processing 500K+ sensor records a day at 99.5% reliability.
+Co-founded a luxury transportation platform. Shipped the full stack solo with Next.js, Stripe, Supabase, and Google Maps.
 
-🔍 **Equifax GCP Data Fabric** — Migrated 7 fragmented data aggregators into a unified GCP architecture with smart address standardization and match-key logic. Hit ratio up 45%, lookup time down from 15+ minutes to under 1 minute.
+`$10K+ revenue` `3× growth in 3 months`
 
-🧠 **MAYS AI Chat Assistant** — Built a production chat assistant with Gemini 2.5 Flash and ChromaDB. Sub-3 second response on 80% of queries, 90%+ accuracy on business intelligence questions. Natural language to SQL so non-technical folks can pull their own analytics.
+</td>
+<td width="50%" valign="top" align="left">
 
-🏆 **TAMU Datathon 2025 Winner** — First place. Built a regulatory document classifier under time pressure with a tight team.
+**TAMU Utilities Automation Suite**
 
----
+13 interconnected automation projects across 3 data sources. CHP Operations pipeline reduced from 2.5 hours to 5 minutes.
 
-### 📄 Resume (Pick Your Flavor)
+`95% manual work eliminated` `99.5% reliability`
 
-Same roles, same dates. Different emphasis depending on what you're hiring for.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="left">
+
+**Equifax GCP Data Fabric**
+
+Migrated 7 fragmented aggregators into a unified GCP architecture with intelligent match-key logic.
+
+`Hit ratio +45%` `Lookup 15 min to under 1 min`
+
+</td>
+<td width="50%" valign="top" align="left">
+
+**MAYS AI Chat Assistant**
+
+Production chat assistant with Gemini 2.5 Flash and ChromaDB. Natural language to SQL for non-technical stakeholders.
+
+`<3s response` `90%+ accuracy`
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  🏆 &nbsp; <b>TAMU Datathon 2025</b> &nbsp;·&nbsp; First Place &nbsp;·&nbsp; Regulatory document classifier
+</p>
+
+<br>
+
+<h2 align="center">Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gcp,azure,postgres,mysql,mongodb&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,langchain&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,django,supabase&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode&theme=dark" />
+</p>
+
+<br>
+
+<h2 align="center">Résumé</h2>
+
+<p align="center">
+  Six versions. Same roles, same dates, same employers. Different emphasis depending on what you're hiring for.
+</p>
+
+<br>
+
+<p align="center">
 
 | Focus | Best For |
-|-------|----------|
-| 🧱 [Data Engineering](https://www.tirthcshah.com/assets/documents/Tirth_Shah_Data_Engineer_Resume.pdf) | ETL, warehousing, orchestration, automation |
-| 🤖 [AI / ML Engineering](https://www.tirthcshah.com/assets/documents/Tirth_Shah_AI_ML_Data_Engineer_Resume.pdf) | ML pipelines, model delivery, data engineering |
-| 🧩 [AI Systems Engineering](https://www.tirthcshah.com/assets/documents/Tirth_Shah_AI_Systems_Engineer_Resume.pdf) | LLM systems, RAG, retrieval workflows |
-| 📦 [AI Product Management](https://www.tirthcshah.com/assets/documents/Tirth_Shah_AI_Product_Manager_Resume.pdf) | Product strategy, prioritization, stakeholder execution |
-| 📊 [Business Analytics](https://www.tirthcshah.com/assets/documents/Tirth_Shah_Business_Data_Analyst_Resume.pdf) | Analytics, KPI reporting, decision support |
-| 🧑‍💻 [Full Stack Engineering](https://www.tirthcshah.com/assets/documents/Tirth_Shah_Full_Stack_Software_Engineer_Resume.pdf) | APIs, full-stack delivery, system implementation |
+|:------|:---------|
+| [Data Engineering](https://www.tirthcshah.com/assets/documents/Tirth_Shah_Data_Engineer_Resume.pdf) | ETL, warehousing, orchestration, automation |
+| [AI / ML Engineering](https://www.tirthcshah.com/assets/documents/Tirth_Shah_AI_ML_Data_Engineer_Resume.pdf) | ML pipelines, model delivery, data engineering |
+| [AI Systems Engineering](https://www.tirthcshah.com/assets/documents/Tirth_Shah_AI_Systems_Engineer_Resume.pdf) | LLM systems, retrieval workflows, RAG |
+| [AI Product Management](https://www.tirthcshah.com/assets/documents/Tirth_Shah_AI_Product_Manager_Resume.pdf) | Product strategy, prioritization, execution |
+| [Business Analytics](https://www.tirthcshah.com/assets/documents/Tirth_Shah_Business_Data_Analyst_Resume.pdf) | Analytics, KPI reporting, decision support |
+| [Full Stack Engineering](https://www.tirthcshah.com/assets/documents/Tirth_Shah_Full_Stack_Software_Engineer_Resume.pdf) | APIs, full-stack delivery, system implementation |
 
----
+</p>
 
-### 🤝 Let's Talk
+<br>
 
-📫 **Email:** tirthdhara108@gmail.com  
-🌐 **Portfolio:** [tirthcshah.com](https://www.tirthcshah.com)  
-💼 **LinkedIn:** [tirth-chirayu-shah](https://linkedin.com/in/tirth-chirayu-shah)  
-✍️ **Medium:** [@tirthshah1999](https://medium.com/@tirthshah1999)  
-📊 **Kaggle:** [tcs1999](https://kaggle.com/tcs1999)  
-💻 **HackerRank:** [tirthdhara108](https://www.hackerrank.com/tirthdhara108)
+<h2 align="center">GitHub at a Glance</h2>
 
----
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tirth-1999&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tirth-1999&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&langs_count=8" />
+</p>
 
-### ⚡ Off the Clock
+<br>
 
-🏃‍♂️ Runner • 🕺 Dancer • ⚽ Football fan • 📸 Photography • ✈️ Travel • 📖 Books • 🥘 Foodie
+<h2 align="center">Beyond Code</h2>
 
-President of Buddy Connect at Mays. Senior Director at IGSA (Best Senior Director, 2025-26). I like building communities almost as much as I like building systems.
+<p align="center">
+  President of <b>Buddy Connect</b> at Mays Business School, leading peer mentorship for incoming MS-MIS students.<br>
+  Senior Director at <b>IGSA</b>, recognized as Best Senior Director 2025-26.
+</p>
+
+<p align="center">
+  Off the clock: running, dancing, photography, travel, football, and good food.
+</p>
+
+<br>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tirth-1999&show_icons=true&locale=en&layout=compact&theme=default" />
+  <i>"Build the system you wish someone had built for you."</i>
 </p>
 
-<p align="center"><em>Gig 'Em! 👍</em></p>
+<p align="center">
+  <b>Gig 'Em 👍</b>
+</p>
